@@ -1,0 +1,55 @@
+/*colors and fonts*/
+body {
+	
+background-color: #cbdfbd;
+color : #ac6153;
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+line-height: 1.6;
+letter-spacing: 1px;
+text-align: center;
+font-weight:lighter;
+
+margin: 1em;
+}
+
+h1 {
+	color :#006d77;
+	font-size: 35px;
+	font-weight: 800;
+	font-family: 'Bitter', serif;
+}
+
+h2 {
+	color : #81b29a;
+	font-family: 'Bitter', serif;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+	color:#006a71;
+	}
+
+a:hover {
+color:#6d6875;
+font-weight: bold
+}
+
+
+
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.btn-pink {
+	background-color: #cbbcb1;
+	padding: 15px 20px;
+}
+
+
+.fas fa-mobile-alt{
+	font size:50px;
+}
